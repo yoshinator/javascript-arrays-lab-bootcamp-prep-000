@@ -31,3 +31,5 @@ function removeLastKitten(){
   console.log(newArray)
   return newArray;
 }
+
+removeLastKitten();
