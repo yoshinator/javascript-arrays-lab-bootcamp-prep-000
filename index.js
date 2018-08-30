@@ -20,3 +20,7 @@ function appendKitten(name){
   var newArray = [...window.kittens, name]
   return newArray;
 }
+
+function prependKitten(name){
+  var newArray = windo
+}
