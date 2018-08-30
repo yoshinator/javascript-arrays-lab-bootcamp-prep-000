@@ -32,4 +32,3 @@ function removeLastKitten(){
   return newArray;
 }
 
-removeLastKitten();
